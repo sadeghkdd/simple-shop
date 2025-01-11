@@ -1,1 +1,4 @@
-This is a simple and interesting project that allows you to use web scraping to extract product information from the eBay website and display it in a Streamlit application. In this project, you extract the product name, product price, and product image link from eBay, and then display them in a simple and user-friendly interface in Streamlit. This allows you to easily browse and analyze product information, as well as gain practical experience in web scraping and building web applications.
+This is a simple and interesting project that allows you to use web scraping to extract product information from the eBay website and display 
+it in a Streamlit application. In this project, you extract the product name, product price, and product image link from eBay, 
+and then display them in a simple and user-friendly interface in Streamlit. This allows you to easily browse and analyze product information,
+as well as gain practical experience in web scraping and building web applications.
